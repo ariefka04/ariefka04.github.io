@@ -1,0 +1,13 @@
+main {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 10px;
+  align-items: center;
+}
+h2 {
+  align-items: center;
+}
+
+body {
+  background-color: rgb(230, 230, 230);
+}

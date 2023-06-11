@@ -1,0 +1,10 @@
+{
+  "editor.wordWrap": "on",
+  "peacock.color": "",
+  "[php]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}

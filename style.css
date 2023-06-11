@@ -1,0 +1,115 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.jumbotron {
+  height: 400px;
+  background-image: url(img/bgfoto.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -110px;
+}
+.jumbotron img {
+  width: 140px;
+  border: 5px;
+}
+.jumbotron {
+  padding: 5rem 3rem;
+  background-color: #e2effe;
+}
+.jumbotron h1,
+.jumbotron p {
+  text-shadow: 1px 1px 10px rgba(254, 254, 254, 0.813);
+  color: #e2effe;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #e0ffff, #dcdcdc, #e0ffff);
+}
+
+header {
+  color: #fff;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style: none;
+}
+ul a {
+  justify-content: center;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  color: #4a2ada;
+  text-decoration: none;
+}
+
+a:hover {
+  color: goldenrod;
+  background-color: #4000ff1a;
+}
+
+.youtube:hover {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+.youtube:active {
+  font-style: italic;
+}
+li:nth-child(1) a:hover {
+  color: goldenrod;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+li:nth-child(1) a:active {
+  font-style: italic;
+}
+li:nth-child(2) a:hover {
+  color: goldenrod;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+li:nth-child(2) a:active {
+  font-style: italic;
+}
+li:nth-child(3) a:hover {
+  color: goldenrod;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+li:nth-child(3) a:active {
+  font-style: italic;
+}
+li:nth-child(4) a:hover {
+  color: goldenrod;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+li:nth-child(4) a:active {
+  font-style: italic;
+}
